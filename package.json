@@ -1,0 +1,20 @@
+{
+  "name": "bunto-clabot",
+  "description": "A Bunto CLA bot.",
+  "version": "1.0.0",
+  "license" : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunto/clabot.git"
+  },
+  "main": "src/clabot.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "clabot": "0.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.0"
+  }
+}
